@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @admiral44
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning ReactJS, NodeJS, ExpressJS, MongoDB. 
+- 🌱 I’m currently learning ExpressJS, MongoDB, ReactJS, NodeJS. 
 - 💞️ I’m looking to collaborate on MERN Development. 
 - 📫 How to reach me shubham.nagane44@gmail.com
 
